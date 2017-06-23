@@ -19,4 +19,8 @@ public class MainActivity extends AppCompatActivity {
         int c;
 
     }
+    private void print3() {
+        int c;
+
+    }
 }
